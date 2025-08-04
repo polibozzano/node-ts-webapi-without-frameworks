@@ -1,7 +1,7 @@
 # 🎧 Podsphere
 
 ## Description
-Podcast Manager is a Netflix-style application that centralizes various podcast episodes organized by category. The project aims to make it easier to access and organize video podcast episodes, providing users with an intuitive and enjoyable browsing experience.
+Podsphere is a Netflix-style application that centralizes various podcast episodes organized by category. The project aims to make it easier to access and organize video podcast episodes, providing users with an intuitive and enjoyable browsing experience.
 
 ## Features
 - **List podcast episodes by category**
