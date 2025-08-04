@@ -1,0 +1,74 @@
+[    
+    {
+        "podcastName": "backstage",
+        "episode": "Michael Jackson - Backstage #010",
+        "videoId": "2jao4jjaod",
+        "categories": ["music", "pop"]
+    },
+    {
+        "podcastName": "backstage",
+        "episode": "Freddie Mercury - Backstage #005",
+        "videoId": "2jao4jjaod",
+        "categories": ["music", "rock"]
+    },
+    {
+        "podcastName": "backstage",
+        "episode": "Ozzy Osbourne - Backstage #150",
+        "videoId": "2jao4jjaod",
+        "categories": ["music", "rock"]
+    },
+    {
+        "podcastName": "culturecast",
+        "episode": "A ascensão da arte urbana nas metrópoles",
+        "videoId": "zz91mnpo34",
+        "categories": ["art", "culture"]
+    },
+    {
+        "podcastName": "futuretalks",
+        "episode": "Inteligência Artificial e o futuro do trabalho com Martha Gabriel",
+        "videoId": "ai457ueg89",
+        "categories": ["technology", "innovation"]
+    },
+    {
+        "podcastName": "futuretalks",
+        "episode": "A era da computação quântica com Shohini Ghose",
+        "videoId": "ft2024lmn2",
+        "categories": ["technology", "science"]
+    },
+    {
+        "podcastName": "historiaviva",
+        "episode": "A Revolução Francesa explicada em 40 minutos - História Viva #231",
+        "videoId": "hv334fgh55",
+        "categories": ["history", "education"]
+    },
+    {
+        "podcastName": "historiaviva",
+        "episode": "Brasil Império: de Dom Pedro I à abolição - História Viva #175",
+        "videoId": "hv2024br1",
+        "categories": ["history", "education"]
+    },
+    {
+        "podcastName": "historiaviva",
+        "episode": "O Egito Antigo além das pirâmides - História Viva #82",
+        "videoId": "hv2024egp2",
+        "categories": ["history", "archaeology"]
+    },
+    {
+        "podcastName": "greenplanet",
+        "episode": "Cidades sustentáveis: utopia ou futuro possível?",
+        "videoId": "grn998ztyx",
+        "categories": ["environment", "urbanism"]
+    },
+    {
+        "podcastName": "greenplanet",
+        "episode": "Reflorestamento: soluções para a crise climática",
+        "videoId": "gp2024tree1",
+        "categories": ["environment", "climate"]
+    },
+    {
+        "podcastName": "greenplanet",
+        "episode": "O papel dos oceanos na regulação do clima",
+        "videoId": "gp2024sea2",
+        "categories": ["environment", "science"]
+    }
+]
